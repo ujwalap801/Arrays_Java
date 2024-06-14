@@ -16,7 +16,7 @@ To get started with this repository, you can clone it using Git:
 git clone https://github.com/yourusername/array-programs.git
 
 
-## Navigate to the directory:
+#Navigate to the directory:
 
 cd array-programs
 
