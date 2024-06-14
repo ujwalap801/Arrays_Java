@@ -20,7 +20,7 @@ git clone https://github.com/yourusername/array-programs.git
 
 cd array-programs
 
-## Usage 🛠️
+# Usage 🛠️
 Navigate to the program's directory, compile the program, and run:
 
 javac ProgramName.java
